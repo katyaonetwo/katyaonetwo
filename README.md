@@ -19,7 +19,7 @@
     - агрегирующие функции
     - оконные функции, ранжирование
     - джойны, CTE
-- Базы данных: PostgreSQL, MS SQL, Clickhouse
+- **Базы данных:** PostgreSQL, MS SQL, Clickhouse
 - **BI-инструменты:** Apache Superset, Qlik Sense, Power BI, Tableau
 - Знание основ дизайна и анализа результатов А/Б тестов
 
